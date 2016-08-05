@@ -1,5 +1,5 @@
-# DogVacay - PetList Test
-by [Jordan Simon](http://jns6971.com/){:target="_blank"}
+# DogVacay - PetList Test (ReactJS)
+by [Jordan Simon](http://jns6971.com/)
 
 ## Installation Instructions
 ```sh
