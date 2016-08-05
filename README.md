@@ -1,8 +1,7 @@
 # DogVacay - PetList Test
-by Jordan Simon
+by [Jordan Simon](http://jns6971.com/){:target="_blank"}
 
 ## Installation Instructions
-
 ```sh
 npm install
 node run dev

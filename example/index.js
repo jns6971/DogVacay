@@ -10,12 +10,12 @@ var PetSearchApp = React.createClass({
       search: null
     };
   },
+
   componentDidMount: function() {
-
     this.loadPetData();
-
   },
 
+  //make call to api. Service is an optional parameter
   loadPetData: function(service){
   	var xhr = new XMLHttpRequest();
 
@@ -79,6 +79,7 @@ var PetSearchApp = React.createClass({
 	}
   }
 });
+
 
 var PetSearchResult = React.createClass({
 
